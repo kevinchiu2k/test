@@ -1,4 +1,3 @@
-# ardu_works
-my arduino works
+# tutorial samples code for arduino projects
 
-this is my aruduo project workspace....
+Sample code for arduino tutorials 
